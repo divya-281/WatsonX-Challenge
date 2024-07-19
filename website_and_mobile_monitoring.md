@@ -504,9 +504,9 @@ Same-origin and cross-origin calls or resource sharing is a terminology that is 
 
 The concept of origins must not be confused with the similar, but notably different in implementation and intention [concept of sites](https://www.ibm.com/links?url=https%3A%2F%2Ftools.ietf.org%2Fhtml%2Fdraft-ietf-httpbis-rfc6265bis-02%23section-5.2).
 
-## [![](https://www.ibm.com/docs/en/SSE1JP5_current/src/pages/ecosystem/icons2/anchor.svg)](https://www.ibm.com/docs/en/instana-observability/current?topic=websites-website-monitoring-faq#metrics) Metrics
+## Metrics
 
-### What do the website metrics mean?
+### 
 
 Most of the website metrics are received from the various W3C specifications. Specifically
 
