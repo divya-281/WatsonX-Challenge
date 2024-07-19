@@ -1,7 +1,3 @@
-Here's the tutorial converted to Markdown format:
-
----
-
 # Integrating Instana with OneLogin
 
 OneLogin doesn't provide automatic setup of SAML applications by uploading the Service Provider metadata. This small tutorial guides you through the necessary steps to get Instana integrated with OneLogin as a SAML app.
